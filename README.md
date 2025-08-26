@@ -1,4 +1,4 @@
-# 📘 MLOps Weekly Evaluation
+# MLOps Weekly Evaluation
 
 This repository is maintained for the **MLOps Class Weekly Evaluations**.  
 It contains assignments and classwork submitted weekly as part of the coursework.  
