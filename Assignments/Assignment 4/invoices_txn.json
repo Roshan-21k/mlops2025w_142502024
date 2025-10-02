@@ -1,0 +1,10 @@
+{
+  "_id": "536365",
+  "invoice_date": "2010-12-01T08:26:00Z",
+  "customer": { "id": 17850, "country": "United Kingdom" },
+  "items": [
+    { "stock_code": "85123A", "description": "WHITE HEART", "unit_price": 2.55, "quantity": 6 },
+    { "stock_code": "71053",  "description": "WHITE LANTERN", "unit_price": 3.39, "quantity": 6 }
+  ],
+  "is_cancellation": false
+}

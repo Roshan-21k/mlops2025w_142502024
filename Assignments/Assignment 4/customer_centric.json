@@ -1,0 +1,15 @@
+{
+  "_id": 17850,
+  "country": "United Kingdom",
+  "invoices": [
+    {
+      "invoice_no": "536365",
+      "invoice_date": "2010-12-01T08:26:00Z",
+      "items": [
+        { "stock_code": "85123A", "unit_price": 2.55, "quantity": 6 },
+        { "stock_code": "71053",  "unit_price": 3.39, "quantity": 6 }
+      ],
+      "is_cancellation": false
+    }
+  ]
+}
